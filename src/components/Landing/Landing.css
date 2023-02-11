@@ -1,7 +1,7 @@
 .hero-image {
     height: 100vh;
     width: 100%;
-    background-image: url(../../images/guinness-hero.jpg);
+    background-image: url(../../assets/images/guinness-hero.jpg);
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
